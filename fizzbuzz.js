@@ -5,6 +5,7 @@
 //* Iterate using a `for` loop through the sequence of numbers 1-20.
 //* For each number, check these conditions and respond appropriately:
 
+
 for (i=1; i<=20; i++) {
   // divisable by 3
   if (i % 3 === 0 ) {
